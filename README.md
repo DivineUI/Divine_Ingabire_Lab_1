@@ -1,5 +1,7 @@
 # Lab 1: Uninformed and Informed Search
-Course: Introduction to AI                                                                                                Student: Divine Uwase Ingabire                                                                                           Student ID: 69062028
+Course: Introduction to AI
+Student: Divine Uwase Ingabire          
+Student ID: 69062028
 
 ## The lab is split into two parts:
 
